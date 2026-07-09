@@ -1,0 +1,38 @@
+{
+  "extName": { "message": "Flobro - Zwevend browservenster" },
+  "extDesc": {
+    "message": "Maak van elke pagina of link een minimaal, afleidingsvrij zwevend venster. Of stuur hem door naar de Flobro desktop-app."
+  },
+  "actionTitle": { "message": "Flobro" },
+  "floatHere": { "message": "Float in een popupvenster" },
+  "floatHereSub": { "message": "Minimaal venster, zonder tabbladen of adresbalk" },
+  "openInApp": { "message": "Openen in Flobro desktop-app" },
+  "openInAppSub": { "message": "Echt altijd-bovenaan zweven" },
+  "confirmQ": { "message": "Opende de Flobro-app?" },
+  "confirmYes": { "message": "Ja, geopend" },
+  "confirmNo": { "message": "Nee, laat de app zien" },
+  "getAppNote": { "message": "De gratis desktop-app houdt vensters boven alles." },
+  "getApp": { "message": "Download via flobro.app" },
+  "ctxFloatPage": { "message": "Float deze pagina" },
+  "ctxFloatLink": { "message": "Float deze link" },
+  "ctxFloatVideo": { "message": "Float deze video" },
+  "ctxForwardPage": { "message": "Pagina openen in Flobro-app" },
+  "ctxForwardLink": { "message": "Link openen in Flobro-app" },
+  "optSize": { "message": "Standaard venstergrootte" },
+  "optWide": { "message": "px breed" },
+  "optHigh": { "message": "px hoog" },
+  "optMove": { "message": "Verplaats het huidige tabblad naar het zwevende venster" },
+  "optMoveSub": { "message": "Video blijft doorspelen. Uitgevinkt: opent een nieuwe kopie." },
+  "optUsage": { "message": "Anonieme gebruiksstatistieken delen" },
+  "optUsageSub": {
+    "message": "Alleen hostnamen van gefloate pagina's (zoals youtube.com). Nooit volledige URL's, nooit je IP."
+  },
+  "optSave": { "message": "Opslaan" },
+  "optSaved": { "message": "Opgeslagen." },
+  "optReset": { "message": "Detectie van desktop-app resetten" },
+  "optResetDone": { "message": "Detectie gereset. De popup vraagt het de volgende keer opnieuw." },
+  "optNote": {
+    "message": "Deze extensie houdt vensters minimaal, maar alleen de Flobro desktop-app kan ze altijd bovenaan houden. Het is de moderne opvolger van de originele Flobro Chrome App."
+  },
+  "optNoteLink": { "message": "Download de gratis Flobro desktop-app" }
+}

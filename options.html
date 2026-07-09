@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      font: 13px/1.5 -apple-system, "Segoe UI", system-ui, sans-serif;
+      color: #16222c; margin: 0; padding: 16px; min-width: 320px; background: #f4f8fb;
+    }
+    h1 { font-size: 15px; display: flex; align-items: center; gap: 8px; margin: 0 0 14px; }
+    h1 svg { width: 20px; height: 20px; }
+    .field { margin-bottom: 12px; }
+    label, .grouplabel { font-weight: 600; display: block; margin-bottom: 4px; }
+    small { color: #4d6274; font-weight: 400; }
+    input[type="number"] {
+      width: 80px; padding: 6px 8px; border: 1.5px solid #dde8f0; border-radius: 8px;
+    }
+    .row { display: flex; gap: 12px; align-items: center; }
+    .toggle { display: flex; align-items: flex-start; gap: 8px; margin: 12px 0; }
+    .toggle input { accent-color: #248bd2; margin-top: 2px; }
+    button {
+      border: 0; background: #248bd2; color: #fff;
+      padding: 8px 16px; border-radius: 8px; cursor: pointer; font: inherit; font-weight: 600;
+    }
+    button:hover { background: #1b7bc4; }
+    .status { color: #1668a8; font-size: 12px; min-height: 16px; margin-top: 8px; }
+    .note {
+      margin-top: 14px; padding: 10px 12px; background: #e7f2fb; border-radius: 8px;
+      font-size: 12px; color: #1668a8;
+    }
+    .note a { color: #1668a8; font-weight: 600; }
+    .linklike { background: none; border: 0; padding: 0; font: inherit; font-size: 12px; color: #4d6274; text-decoration: underline; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>
+    <svg viewBox="0 0 512 512"><rect x="88" y="188" width="272" height="212" rx="44" fill="none" stroke="#248BD2" stroke-opacity="0.35" stroke-width="28"/><rect x="168" y="104" width="272" height="212" rx="44" fill="#248BD2"/></svg>
+    Flobro
+  </h1>
+
+  <div class="field">
+    <span class="grouplabel" data-msg="optSize"></span>
+    <div class="row">
+      <input type="number" id="width" min="200" max="3840"> <span data-msg="optWide"></span>
+      <input type="number" id="height" min="120" max="2160"> <span data-msg="optHigh"></span>
+    </div>
+  </div>
+
+  <label class="toggle" for="moveTab">
+    <input type="checkbox" id="moveTab">
+    <span><span data-msg="optMove"></span><br><small data-msg="optMoveSub"></small></span>
+  </label>
+
+  <label class="toggle" for="shareUsage">
+    <input type="checkbox" id="shareUsage">
+    <span><span data-msg="optUsage"></span><br><small data-msg="optUsageSub"></small></span>
+  </label>
+
+  <button type="button" id="save" data-msg="optSave"></button>
+  <div class="status" id="status"></div>
+
+  <div class="note">
+    <span data-msg="optNote"></span>
+    <a href="https://flobro.app" target="_blank" rel="noopener" data-msg="optNoteLink">flobro.app</a>
+  </div>
+
+  <p style="margin-top: 10px; font-size: 12px;">
+    <button type="button" id="reset-detect" class="linklike" data-msg="optReset"></button>
+  </p>
+
+  <script src="shared.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>

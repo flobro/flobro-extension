@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      font: 13px/1.45 -apple-system, "Segoe UI", system-ui, sans-serif;
+      color: #16222c; margin: 0; width: 290px; background: #f4f8fb;
+    }
+    .head {
+      display: flex; align-items: center; gap: 8px; padding: 12px 14px 8px;
+      font-weight: 700; font-size: 14px;
+      user-select: none; -webkit-user-select: none;
+    }
+    .head svg { width: 20px; height: 20px; }
+    .item {
+      display: flex; align-items: center; gap: 11px; margin: 6px 10px;
+      padding: 10px 12px; border-radius: 10px; border: 1.5px solid #dde8f0;
+      background: #fff; cursor: pointer; width: calc(100% - 20px);
+      text-align: left; font: inherit; color: inherit;
+    }
+    .item:hover { border-color: #248bd2; }
+    .item .ic {
+      flex: 0 0 34px; height: 34px; border-radius: 9px; display: grid; place-items: center;
+      background: linear-gradient(135deg, #3fa9f5, #1668a8);
+    }
+    .item .ic svg { width: 17px; height: 17px; stroke: #fff; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .item b { display: block; font-size: 13px; }
+    .item small { color: #5a7183; font-size: 11.5px; }
+    .confirm {
+      display: none; margin: 6px 10px 4px; padding: 11px 12px;
+      background: #e7f2fb; border-radius: 10px; font-size: 12.5px; color: #1668a8;
+    }
+    .confirm.visible { display: block; }
+    .confirm .q { font-weight: 700; margin-bottom: 8px; }
+    .confirm .row { display: flex; gap: 8px; }
+    .confirm button {
+      flex: 1; border: 0; border-radius: 8px; padding: 7px 8px; cursor: pointer;
+      font: inherit; font-size: 12px; font-weight: 600;
+    }
+    .confirm .yes { background: #248bd2; color: #fff; }
+    .confirm .no { background: #fff; color: #1668a8; border: 1.5px solid #c4dcef; }
+    .foot { padding: 8px 14px 12px; font-size: 11.5px; color: #5a7183; }
+    .foot a { color: #1668a8; font-weight: 600; text-decoration: none; }
+    #applink { display: none; }
+  </style>
+</head>
+<body>
+  <div class="head">
+    <svg viewBox="0 0 512 512"><rect x="88" y="188" width="272" height="212" rx="44" fill="none" stroke="#248BD2" stroke-opacity="0.35" stroke-width="28"/><rect x="168" y="104" width="272" height="212" rx="44" fill="#248BD2"/></svg>
+    Flobro
+  </div>
+
+  <button type="button" class="item" id="float-here">
+    <span class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="8" width="13" height="11" rx="2"/><path d="M8 8V6a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-2"/></svg></span>
+    <span><b data-msg="floatHere"></b><small data-msg="floatHereSub"></small></span>
+  </button>
+
+  <button type="button" class="item" id="open-app">
+    <span class="ic"><svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+    <span><b data-msg="openInApp"></b><small data-msg="openInAppSub"></small></span>
+  </button>
+
+  <div class="confirm" id="confirm">
+    <div class="q" data-msg="confirmQ"></div>
+    <div class="row">
+      <button type="button" class="yes" id="confirm-yes" data-msg="confirmYes"></button>
+      <button type="button" class="no" id="confirm-no" data-msg="confirmNo"></button>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span data-msg="getAppNote"></span>
+    <a href="https://flobro.app" target="_blank" rel="noopener" data-msg="getApp">flobro.app</a>
+  </div>
+
+  <iframe id="applink" title="Hidden helper frame that launches the Flobro desktop app"></iframe>
+  <script src="shared.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

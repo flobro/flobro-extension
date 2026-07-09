@@ -1,0 +1,19 @@
+{
+  "name": "flobro-extension",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flobro Chrome extension: float any tab, link or video in a minimal popup window, or forward it to the Flobro desktop app.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "prepare": "node -e \"try{require('child_process').execSync('git config core.hooksPath .githooks');require('fs').readdirSync('.githooks').forEach(f=>require('fs').chmodSync('.githooks/'+f,0o755))}catch(e){}\"",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.3"
+  }
+}
