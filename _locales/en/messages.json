@@ -1,40 +1,95 @@
 {
-  "extName": { "message": "Flobro - Floating Browser Window" },
+  "extName": {
+    "message": "Flobro - Floating Browser Window"
+  },
   "extDesc": {
     "message": "Pop any page or link out into a minimal, distraction-free floating window. Or forward it to the Flobro desktop app."
   },
-  "actionTitle": { "message": "Flobro" },
-  "floatHere": { "message": "Float in a popup window" },
-  "floatHereSub": { "message": "Minimal window, no tabs or address bar" },
-  "openInApp": { "message": "Open in Flobro desktop app" },
-  "openInAppSub": { "message": "True always-on-top floating" },
-  "confirmQ": { "message": "Did the Flobro app open?" },
-  "confirmYes": { "message": "Yes, it opened" },
-  "confirmNo": { "message": "No, show me the app" },
-  "getAppNote": { "message": "The free desktop app keeps windows on top of everything." },
-  "getApp": { "message": "Get it at flobro.app" },
-  "ctxFloatPage": { "message": "Float this page" },
-  "ctxFloatLink": { "message": "Float this link" },
-  "ctxFloatVideo": { "message": "Float this video" },
-  "ctxForwardPage": { "message": "Open page in Flobro app" },
-  "ctxForwardLink": { "message": "Open link in Flobro app" },
-  "optSize": { "message": "Default window size" },
-  "optWide": { "message": "px wide" },
-  "optHigh": { "message": "px high" },
-  "optMove": { "message": "Move the current tab into the floating window" },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "Float in a popup window"
+  },
+  "floatHereSub": {
+    "message": "Minimal window, no tabs or address bar"
+  },
+  "openInApp": {
+    "message": "Open in Flobro desktop app"
+  },
+  "openInAppSub": {
+    "message": "True always-on-top floating"
+  },
+  "confirmQ": {
+    "message": "Did the Flobro app open?"
+  },
+  "confirmYes": {
+    "message": "Yes, it opened"
+  },
+  "confirmNo": {
+    "message": "No, show me the app"
+  },
+  "getAppNote": {
+    "message": "The free desktop app keeps windows on top of everything."
+  },
+  "getApp": {
+    "message": "Get it at flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "Float this page"
+  },
+  "ctxFloatLink": {
+    "message": "Float this link"
+  },
+  "ctxFloatVideo": {
+    "message": "Float this video"
+  },
+  "ctxForwardPage": {
+    "message": "Open page in Flobro app"
+  },
+  "ctxForwardLink": {
+    "message": "Open link in Flobro app"
+  },
+  "optSize": {
+    "message": "Default window size"
+  },
+  "optWide": {
+    "message": "px wide"
+  },
+  "optHigh": {
+    "message": "px high"
+  },
+  "optMove": {
+    "message": "Move the current tab into the floating window"
+  },
   "optMoveSub": {
     "message": "Keeps video playback running. Unchecked: opens a fresh copy instead."
   },
-  "optUsage": { "message": "Share anonymous usage stats" },
+  "optUsage": {
+    "message": "Share anonymous usage stats"
+  },
   "optUsageSub": {
     "message": "Only hostnames of floated pages (like youtube.com). Never full URLs, never your IP."
   },
-  "optSave": { "message": "Save" },
-  "optSaved": { "message": "Saved." },
-  "optReset": { "message": "Reset desktop app detection" },
-  "optResetDone": { "message": "Detection reset. The popup will ask again next time." },
+  "optSave": {
+    "message": "Save"
+  },
+  "optSaved": {
+    "message": "Saved."
+  },
+  "optReset": {
+    "message": "Reset desktop app detection"
+  },
+  "optResetDone": {
+    "message": "Detection reset. The popup will ask again next time."
+  },
   "optNote": {
     "message": "This extension keeps windows minimal, but only the Flobro desktop app can keep them always on top. It is the modern successor of the original Flobro Chrome App."
   },
-  "optNoteLink": { "message": "Get the free Flobro desktop app" }
+  "optNoteLink": {
+    "message": "Get the free Flobro desktop app"
+  },
+  "ctxUnfloat": {
+    "message": "Move back to the main window"
+  }
 }
