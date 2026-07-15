@@ -1,0 +1,103 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read version and verify it matches the tag
+        id: meta
+        run: |
+          VERSION=$(node -p "require('./manifest.json').version")
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          if [[ "$GITHUB_REF" == refs/tags/v* && "$GITHUB_REF_NAME" != "v$VERSION" ]]; then
+            echo "manifest.json version ($VERSION) does not match tag ($GITHUB_REF_NAME)" >&2
+            exit 1
+          fi
+
+      - name: Build store zip
+        run: |
+          zip -r "flobro-extension-${{ steps.meta.outputs.version }}.zip" . \
+            -x ".git/*" "node_modules/*" ".githooks/*" ".github/*" \
+               ".DS_Store" "*/.DS_Store" ".cz.toml" ".editorconfig" ".gitignore" \
+               ".npmrc" "biome.json" "package.json" "package-lock.json" \
+               "AGENTS.md" "CLAUDE.md" "CHANGELOG.md" "CODE_OF_CONDUCT.md" \
+               "CONTRIBUTING.md" "README.md"
+          unzip -l "flobro-extension-${{ steps.meta.outputs.version }}.zip"
+
+      - name: Create GitHub release with the zip
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.meta.outputs.version }}
+          name: Flobro extension v${{ steps.meta.outputs.version }}
+          body: "Chrome extension package, ready for the Chrome Web Store. See CHANGELOG.md for details."
+          files: flobro-extension-${{ steps.meta.outputs.version }}.zip
+
+  # Publishes to the Chrome Web Store when the API secrets are configured.
+  # Setup (one time):
+  #   1. console.cloud.google.com: create a project, enable the
+  #      "Chrome Web Store API", configure the OAuth consent screen, and
+  #      create an OAuth client id (Desktop app).
+  #   2. Generate a refresh token for that client (see
+  #      https://developer.chrome.com/docs/webstore/using-api).
+  #   3. Repo secrets: CHROME_CLIENT_ID, CHROME_CLIENT_SECRET,
+  #      CHROME_REFRESH_TOKEN. Without them this job is skipped and the
+  #      zip from the release above can be uploaded by hand.
+  # Note: an upload still goes through the normal store review; "publish"
+  # here means "submit for review and release on approval".
+  publish:
+    needs: release
+    runs-on: ubuntu-latest
+    env:
+      EXTENSION_ID: lbjfjhfnjdcglaecgbhkbbfhebccomlh
+      CLIENT_ID: ${{ secrets.CHROME_CLIENT_ID }}
+      CLIENT_SECRET: ${{ secrets.CHROME_CLIENT_SECRET }}
+      REFRESH_TOKEN: ${{ secrets.CHROME_REFRESH_TOKEN }}
+    steps:
+      - name: Check for store credentials
+        id: creds
+        run: |
+          if [ -n "$CLIENT_ID" ] && [ -n "$CLIENT_SECRET" ] && [ -n "$REFRESH_TOKEN" ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No Chrome Web Store secrets configured; skipping upload."
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.creds.outputs.present == 'true'
+
+      - name: Read version
+        id: meta
+        if: steps.creds.outputs.present == 'true'
+        run: |
+          VERSION=$(node -p "require('./manifest.json').version")
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Build store zip
+        if: steps.creds.outputs.present == 'true'
+        run: |
+          zip -r "flobro-extension-${{ steps.meta.outputs.version }}.zip" . \
+            -x ".git/*" "node_modules/*" ".githooks/*" ".github/*" \
+               ".DS_Store" "*/.DS_Store" ".cz.toml" ".editorconfig" ".gitignore" \
+               ".npmrc" "biome.json" "package.json" "package-lock.json" \
+               "AGENTS.md" "CLAUDE.md" "CHANGELOG.md" "CODE_OF_CONDUCT.md" \
+               "CONTRIBUTING.md" "README.md"
+
+      - name: Upload and submit to the Chrome Web Store
+        if: steps.creds.outputs.present == 'true'
+        run: |
+          npx --yes chrome-webstore-upload-cli@3 upload \
+            --source "flobro-extension-${{ steps.meta.outputs.version }}.zip" \
+            --extension-id "$EXTENSION_ID" \
+            --auto-publish
