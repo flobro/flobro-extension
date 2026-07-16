@@ -44,7 +44,12 @@ async function flobroTrack(event, url) {
         api_key: FLOBRO_PH_KEY,
         event,
         distinct_id: await flobroAnonId(),
-        properties: { $ip: null, source: 'extension', ...(hostname ? { hostname } : {}) },
+        properties: {
+          $ip: null,
+          source: 'extension',
+          app_version: chrome.runtime.getManifest().version,
+          ...(hostname ? { hostname } : {}),
+        },
       }),
     });
   } catch (_) {
