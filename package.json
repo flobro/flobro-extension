@@ -1,6 +1,6 @@
 {
   "name": "flobro-extension",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Flobro Chrome extension: float any tab, link or video in a minimal popup window, or forward it to the Flobro desktop app.",
   "license": "MIT",
