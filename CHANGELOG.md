@@ -21,6 +21,16 @@ using [commitizen](https://commitizen-tools.github.io/commitizen/) (`cz bump`).
 [Unreleased]: https://github.com/flobro/flobro-extension/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/flobro/flobro-extension/releases/tag/v1.0.0
 
+## v1.2.0 (2026-07-18)
+
+### Feat
+
+- add top locales and localized store metadata
+
+### Fix
+
+- switch to the Flobro profile Mollie payment link
+
 ## v1.1.0 (2026-07-17)
 
 ### Feat
