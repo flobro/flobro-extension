@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - Fenêtre toujours au premier plan",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "Gardez tout onglet toujours au premier plan dans une fenêtre flottante. Épinglez vidéos, docs ou tableaux de bord sur chaque app.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "Flotter dans une fenêtre popup"
+  },
+  "floatHereSub": {
+    "message": "Fenêtre minimale, sans onglets ni barre d'adresse"
+  },
+  "openInApp": {
+    "message": "Ouvrir dans l'app de bureau Flobro"
+  },
+  "openInAppSub": {
+    "message": "Vraiment toujours au premier plan"
+  },
+  "confirmQ": {
+    "message": "L'app Flobro s'est-elle ouverte ?"
+  },
+  "confirmYes": {
+    "message": "Oui, elle s'est ouverte"
+  },
+  "confirmNo": {
+    "message": "Non, montrez-moi l'app"
+  },
+  "getAppNote": {
+    "message": "L'app de bureau gratuite garde les fenêtres au-dessus de tout."
+  },
+  "getApp": {
+    "message": "Obtenez-la sur flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "Faire flotter cette page"
+  },
+  "ctxFloatLink": {
+    "message": "Faire flotter ce lien"
+  },
+  "ctxFloatVideo": {
+    "message": "Faire flotter cette vidéo"
+  },
+  "ctxForwardPage": {
+    "message": "Ouvrir la page dans l'app Flobro"
+  },
+  "ctxForwardLink": {
+    "message": "Ouvrir le lien dans l'app Flobro"
+  },
+  "optSize": {
+    "message": "Taille de fenêtre par défaut"
+  },
+  "optWide": {
+    "message": "px de large"
+  },
+  "optHigh": {
+    "message": "px de haut"
+  },
+  "optMove": {
+    "message": "Déplacer l'onglet actuel dans la fenêtre flottante"
+  },
+  "optMoveSub": {
+    "message": "La lecture vidéo continue. Décoché : ouvre une nouvelle copie à la place."
+  },
+  "optUsage": {
+    "message": "Partager des statistiques d'utilisation anonymes"
+  },
+  "optUsageSub": {
+    "message": "Uniquement les noms d'hôte des pages flottées (comme youtube.com). Jamais d'URL complètes, jamais votre IP."
+  },
+  "optSave": {
+    "message": "Enregistrer"
+  },
+  "optSaved": {
+    "message": "Enregistré."
+  },
+  "optReset": {
+    "message": "Réinitialiser la détection de l'app de bureau"
+  },
+  "optResetDone": {
+    "message": "Détection réinitialisée. La question sera reposée la prochaine fois."
+  },
+  "optNote": {
+    "message": "Cette extension garde les fenêtres minimales, mais seule l'app de bureau Flobro peut les garder toujours au premier plan. C'est la successeure moderne de la Flobro Chrome App d'origine."
+  },
+  "optNoteLink": {
+    "message": "Obtenez l'app de bureau gratuite Flobro"
+  },
+  "ctxUnfloat": {
+    "message": "Replacer dans la fenêtre principale"
+  }
+}

@@ -1,0 +1,52 @@
+LOCALE: id
+============================================================
+NAME (42 chars, store limit 45):
+Flobro - Jendela Mengambang Selalu di Atas
+
+SUMMARY (118 chars, limit 132):
+Jaga tab apa pun selalu di atas dalam jendela mengambang. Sematkan video, dokumen, atau dasbor di atas semua aplikasi.
+
+DESCRIPTION:
+Jaga halaman web apa pun selalu terlihat. Flobro mengubah tab, tautan, atau video apa pun menjadi jendela mengambang minimalis: tanpa tab, tanpa bilah alamat, tanpa antarmuka. Hanya kontennya, selalu terlihat saat Anda bekerja.
+
+Dan Flobro melangkah lebih jauh dari ekstensi mana pun. Dengan aplikasi desktop Flobro gratis untuk Mac dan Windows, satu klik mengubah jendela mengambang itu menjadi jendela yang benar-benar selalu di atas, di atas semua aplikasi di layar Anda, bukan hanya browser.
+
+FITUR FLOBRO
+
+- Ambangkan tab apa pun: klik ikon di bilah alat dan tab Anda saat ini berubah menjadi jendela mengambang tanpa bingkai.
+- Ambangkan tautan apa pun: klik kanan tautan dan buka langsung di jendela mengambang.
+- Sematkan video, siaran langsung, obrolan, dasbor, atau dokumen dan pantau terus.
+- Bebas gangguan: jendela hanya menampilkan halaman web, tidak ada yang lain.
+- Pindahkan dan ubah ukuran jendela mengambang sesuai layar dan alur kerja Anda.
+- Benar-benar selalu di atas: teruskan halaman ke aplikasi desktop gratis dan halaman itu mengambang di atas SEMUA aplikasi, dengan zoom (25-500%), penjajaran 16:9, dan penyematan pada bilah yang hanya muncul saat kursor melintas.
+- Gratis dan open source (MIT). Tanpa akun, tanpa iklan.
+
+CARA KERJA
+
+1. Klik ikon Flobro untuk mengambangkan tab saat ini, atau klik kanan tautan mana pun dan pilih Flobro.
+2. Pindahkan dan ubah ukuran jendela mengambang sesuka Anda.
+3. Ingin di atas semua aplikasi, bukan hanya Chrome? Pasang aplikasi desktop gratis dari flobro.app dan teruskan halaman dengan satu klik.
+
+SIAPA YANG MEMAKAI FLOBRO
+
+- Pengembang: dokumentasi, log build, atau respons API tetap terlihat saat coding.
+- Pelajar: tonton kuliah atau tutorial sambil mencatat di aplikasi lain.
+- Analis dan trader: pantau grafik, feed, dan berita langsung tanpa berpindah tab.
+- Penulis dan peneliti: sumber dan referensi tetap terlihat saat menulis.
+- Penggemar olahraga dan video: ikuti pertandingan atau video di sudut layar.
+
+PERTANYAAN UMUM
+
+T: Bagaimana membuat tab Chrome selalu di atas?
+J: Klik ikon Flobro untuk mengambangkan tab dalam jendela tanpa bingkai. Untuk jendela yang tetap di atas semua aplikasi, teruskan dengan satu klik ke aplikasi desktop Flobro gratis.
+
+T: Apa beda jendela mengambang dengan aplikasi desktop?
+J: Jendela mengambang adalah jendela Chrome minimal tanpa antarmuka. Browser tidak bisa menahan jendela di atas aplikasi lain, jadi untuk benar-benar selalu di atas, Flobro menyerahkan halaman ke aplikasi desktop untuk Mac dan Windows.
+
+T: Apakah Flobro benar-benar gratis?
+J: Ya. Flobro gratis dan open source dengan lisensi MIT. Pengembangan didukung donasi sukarela.
+
+T: Bagaimana dengan privasi saya?
+J: Statistik penggunaan anonim terbatas pada nama host saja, tidak pernah URL lengkap, dan bisa dimatikan di opsi. Detail di flobro.app/privacy.html.
+
+Flobro: tampilkan semua konten, selalu di atas.

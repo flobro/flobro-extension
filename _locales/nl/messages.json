@@ -1,9 +1,11 @@
 {
   "extName": {
-    "message": "Flobro - Zwevend browservenster"
+    "message": "Flobro - Venster Altijd Bovenaan",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
   },
   "extDesc": {
-    "message": "Maak van elke pagina of link een minimaal, afleidingsvrij zwevend venster. Of stuur hem door naar de Flobro desktop-app."
+    "message": "Houd elk tabblad altijd bovenaan in een zwevend venster. Zet video's, docs of dashboards vast, of zweef boven elke applicatie.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
   },
   "actionTitle": {
     "message": "Flobro"

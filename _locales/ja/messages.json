@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - 常に最前面フローティングウィンドウ",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "任意のタブをフローティングウィンドウで常に最前面に。動画、ドキュメント、ダッシュボードをピン留めし、すべてのアプリの上に表示。",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "ポップアップウィンドウでフロート"
+  },
+  "floatHereSub": {
+    "message": "タブもアドレスバーもないミニマルなウィンドウ"
+  },
+  "openInApp": {
+    "message": "Flobro デスクトップアプリで開く"
+  },
+  "openInAppSub": {
+    "message": "本当の常に最前面フローティング"
+  },
+  "confirmQ": {
+    "message": "Flobro アプリは開きましたか?"
+  },
+  "confirmYes": {
+    "message": "はい、開きました"
+  },
+  "confirmNo": {
+    "message": "いいえ、アプリを見せて"
+  },
+  "getAppNote": {
+    "message": "無料のデスクトップアプリはウィンドウをすべての上に表示し続けます。"
+  },
+  "getApp": {
+    "message": "flobro.app で入手"
+  },
+  "ctxFloatPage": {
+    "message": "このページをフロート"
+  },
+  "ctxFloatLink": {
+    "message": "このリンクをフロート"
+  },
+  "ctxFloatVideo": {
+    "message": "この動画をフロート"
+  },
+  "ctxForwardPage": {
+    "message": "ページを Flobro アプリで開く"
+  },
+  "ctxForwardLink": {
+    "message": "リンクを Flobro アプリで開く"
+  },
+  "optSize": {
+    "message": "デフォルトのウィンドウサイズ"
+  },
+  "optWide": {
+    "message": "px 幅"
+  },
+  "optHigh": {
+    "message": "px 高さ"
+  },
+  "optMove": {
+    "message": "現在のタブをフローティングウィンドウに移動"
+  },
+  "optMoveSub": {
+    "message": "動画の再生を継続します。オフの場合: 新しいコピーを開きます。"
+  },
+  "optUsage": {
+    "message": "匿名の利用統計を共有"
+  },
+  "optUsageSub": {
+    "message": "フロートしたページのホスト名のみ (youtube.com など)。完全な URL や IP は決して送信しません。"
+  },
+  "optSave": {
+    "message": "保存"
+  },
+  "optSaved": {
+    "message": "保存しました。"
+  },
+  "optReset": {
+    "message": "デスクトップアプリ検出をリセット"
+  },
+  "optResetDone": {
+    "message": "検出をリセットしました。次回また確認します。"
+  },
+  "optNote": {
+    "message": "この拡張機能はウィンドウをミニマルに保ちますが、常に最前面に保てるのは Flobro デスクトップアプリだけです。オリジナルの Flobro Chrome App の現代版後継です。"
+  },
+  "optNoteLink": {
+    "message": "無料の Flobro デスクトップアプリを入手"
+  },
+  "ctxUnfloat": {
+    "message": "メインウィンドウに戻す"
+  }
+}

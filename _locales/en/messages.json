@@ -1,9 +1,11 @@
 {
   "extName": {
-    "message": "Flobro - Floating Browser Window"
+    "message": "Flobro - Always on Top Floating Window",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
   },
   "extDesc": {
-    "message": "Pop any page or link out into a minimal, distraction-free floating window. Or forward it to the Flobro desktop app."
+    "message": "Keep any tab always on top in a floating window. Pin videos, docs or dashboards in a chromeless popup, or float above every app.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
   },
   "actionTitle": {
     "message": "Flobro"

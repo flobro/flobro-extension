@@ -1,0 +1,52 @@
+LOCALE: de
+============================================================
+NAME (43 chars, store limit 45):
+Flobro - Schwebendes Fenster im Vordergrund
+
+SUMMARY (121 chars, limit 132):
+Halte jeden Tab immer im Vordergrund in einem schwebenden Fenster. Videos, Docs oder Dashboards anpinnen, über jeder App.
+
+DESCRIPTION:
+Behalte jede Webseite immer im Blick. Flobro löst jeden Tab, Link oder jedes Video in ein minimales schwebendes Fenster heraus: keine Tabs, keine Adressleiste, keine Oberfläche. Nur der Inhalt, immer sichtbar, während du arbeitest.
+
+Und Flobro geht einen Schritt weiter als jede andere Erweiterung. Mit der kostenlosen Flobro Desktop-App für Mac und Windows wird aus dem schwebenden Fenster mit einem Klick ein Fenster, das wirklich immer im Vordergrund bleibt, über jeder Anwendung auf deinem Bildschirm, nicht nur im Browser.
+
+FLOBRO FUNKTIONEN
+
+- Jeden Tab schweben lassen: Klick auf das Symbol in der Symbolleiste und dein aktueller Tab springt in ein rahmenloses schwebendes Fenster.
+- Jeden Link schweben lassen: Rechtsklick auf einen Link und direkt im schwebenden Fenster öffnen.
+- Videos, Livestreams, Chats, Dashboards oder Dokumente anpinnen und im Blick behalten.
+- Ablenkungsfrei: das Fenster zeigt nur die Webseite, sonst nichts.
+- Verschiebe und skaliere das schwebende Fenster passend zu Bildschirm und Arbeitsweise.
+- Wirklich immer im Vordergrund: leite eine Seite an die kostenlose Flobro Desktop-App weiter und sie schwebt über ALLEN Anwendungen, mit Zoom (25-500%), 16:9-Ausrichtung und Anpinnen in einer Leiste, die nur beim Darüberfahren erscheint.
+- Kostenlos und Open Source (MIT). Kein Konto, keine Werbung.
+
+SO FUNKTIONIERT ES
+
+1. Klicke auf das Flobro-Symbol, um den aktuellen Tab schweben zu lassen, oder wähle Flobro per Rechtsklick auf einen Link.
+2. Verschiebe und skaliere das schwebende Fenster nach Belieben.
+3. Soll es über jeder App schweben, nicht nur über Chrome? Installiere die kostenlose Desktop-App von flobro.app und leite die Seite mit einem Klick weiter.
+
+WER FLOBRO NUTZT
+
+- Entwickler: Dokumentation, Build-Logs oder API-Antworten beim Programmieren sichtbar halten.
+- Studierende: eine Vorlesung oder ein Tutorial ansehen und in einer anderen App mitschreiben.
+- Analysten und Trader: Live-Charts, Feeds und News verfolgen ohne Tab-Wechsel.
+- Autoren und Forschende: Quellen und Referenzen beim Schreiben im Blick behalten.
+- Sport- und Videofans: das Spiel oder Video in einer Bildschirmecke verfolgen.
+
+HÄUFIGE FRAGEN
+
+F: Wie halte ich einen Chrome-Tab immer im Vordergrund?
+A: Klicke auf das Flobro-Symbol, um den Tab in einem rahmenlosen Fenster schweben zu lassen. Für ein Fenster, das über jeder Anwendung bleibt, leite es mit einem Klick an die kostenlose Flobro Desktop-App weiter.
+
+F: Was ist der Unterschied zwischen dem schwebenden Fenster und der Desktop-App?
+A: Das schwebende Fenster ist ein minimales Chrome-Fenster ohne Oberfläche. Browser können ein Fenster nicht über anderen Anwendungen halten, deshalb übergibt Flobro die Seite für echtes Immer-im-Vordergrund an die Desktop-App für Mac und Windows.
+
+F: Ist Flobro wirklich kostenlos?
+A: Ja. Flobro ist kostenlos und Open Source unter MIT-Lizenz. Die Entwicklung wird durch freiwillige Spenden getragen.
+
+F: Und meine Privatsphäre?
+A: Anonyme Nutzungsstatistiken sind auf Hostnamen beschränkt, niemals vollständige URLs, und lassen sich in den Optionen abschalten. Details auf flobro.app/privacy.html.
+
+Flobro: alle Inhalte zeigen, immer im Vordergrund.

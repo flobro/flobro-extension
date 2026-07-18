@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - Jendela Mengambang Selalu di Atas",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "Jaga tab apa pun selalu di atas dalam jendela mengambang. Sematkan video, dokumen, atau dasbor di atas semua aplikasi.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "Ambangkan di jendela popup"
+  },
+  "floatHereSub": {
+    "message": "Jendela minimal, tanpa tab atau bilah alamat"
+  },
+  "openInApp": {
+    "message": "Buka di aplikasi desktop Flobro"
+  },
+  "openInAppSub": {
+    "message": "Benar-benar selalu di atas"
+  },
+  "confirmQ": {
+    "message": "Apakah aplikasi Flobro terbuka?"
+  },
+  "confirmYes": {
+    "message": "Ya, terbuka"
+  },
+  "confirmNo": {
+    "message": "Tidak, tunjukkan aplikasinya"
+  },
+  "getAppNote": {
+    "message": "Aplikasi desktop gratis menjaga jendela tetap di atas segalanya."
+  },
+  "getApp": {
+    "message": "Dapatkan di flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "Ambangkan halaman ini"
+  },
+  "ctxFloatLink": {
+    "message": "Ambangkan tautan ini"
+  },
+  "ctxFloatVideo": {
+    "message": "Ambangkan video ini"
+  },
+  "ctxForwardPage": {
+    "message": "Buka halaman di aplikasi Flobro"
+  },
+  "ctxForwardLink": {
+    "message": "Buka tautan di aplikasi Flobro"
+  },
+  "optSize": {
+    "message": "Ukuran jendela bawaan"
+  },
+  "optWide": {
+    "message": "px lebar"
+  },
+  "optHigh": {
+    "message": "px tinggi"
+  },
+  "optMove": {
+    "message": "Pindahkan tab saat ini ke jendela mengambang"
+  },
+  "optMoveSub": {
+    "message": "Pemutaran video tetap berjalan. Tidak dicentang: membuka salinan baru."
+  },
+  "optUsage": {
+    "message": "Bagikan statistik penggunaan anonim"
+  },
+  "optUsageSub": {
+    "message": "Hanya nama host halaman yang diambangkan (seperti youtube.com). Tidak pernah URL lengkap, tidak pernah IP Anda."
+  },
+  "optSave": {
+    "message": "Simpan"
+  },
+  "optSaved": {
+    "message": "Tersimpan."
+  },
+  "optReset": {
+    "message": "Atur ulang deteksi aplikasi desktop"
+  },
+  "optResetDone": {
+    "message": "Deteksi diatur ulang. Popup akan bertanya lagi lain kali."
+  },
+  "optNote": {
+    "message": "Ekstensi ini menjaga jendela tetap minimal, tetapi hanya aplikasi desktop Flobro yang bisa menjaganya selalu di atas. Ini adalah penerus modern dari Flobro Chrome App yang asli."
+  },
+  "optNoteLink": {
+    "message": "Dapatkan aplikasi desktop Flobro gratis"
+  },
+  "ctxUnfloat": {
+    "message": "Pindahkan kembali ke jendela utama"
+  }
+}

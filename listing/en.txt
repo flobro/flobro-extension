@@ -1,0 +1,52 @@
+LOCALE: en
+============================================================
+NAME (38 chars, store limit 45):
+Flobro - Always on Top Floating Window
+
+SUMMARY (128 chars, limit 132):
+Keep any tab always on top in a floating window. Pin videos, docs or dashboards in a chromeless popup, or float above every app.
+
+DESCRIPTION:
+Keep any webpage always in sight. Flobro pops any tab, link or video out into a minimal floating window: no tabs, no address bar, no interface. Just the content, always visible while you work.
+
+And Flobro goes one step further than any other extension. With the free Flobro desktop app for Mac and Windows, one click turns that floating window into a true always on top window that stays above every application on your screen, not just your browser.
+
+FLOBRO FEATURES
+
+- Float any tab: click the toolbar icon and your current tab pops out into a chromeless floating window.
+- Float any link: right-click a link and open it directly in a floating window.
+- Pin videos, live streams, chats, dashboards or docs and keep them in view.
+- Distraction-free: the popup shows only the webpage, nothing else.
+- Move and resize the floating window to fit your screen and workflow.
+- True always on top: forward any page to the free Flobro desktop app and it floats above ALL applications, with zoom (25-500%), 16:9 snap and pin controls in a toolbar that only appears on hover.
+- Free and open source (MIT). No account, no ads.
+
+HOW IT WORKS
+
+1. Click the Flobro icon to float your current tab, or right-click any link and choose Flobro.
+2. Move and resize the floating popup wherever you like.
+3. Want it above every app, not just Chrome? Install the free desktop app from flobro.app and forward the page with one click.
+
+WHO USES FLOBRO
+
+- Developers: keep documentation, build logs or API responses visible while coding.
+- Students: watch a lecture or tutorial while taking notes in another app.
+- Analysts and traders: monitor live charts, feeds and news without tab switching.
+- Writers and researchers: keep sources and references in view while you write.
+- Sports and video fans: follow the match or video in a corner of your screen.
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: How do I make a Chrome tab always stay on top?
+A: Click the Flobro icon to float the tab in a chromeless popup window. For a window that stays on top of every application, forward it to the free Flobro desktop app with one click.
+
+Q: What is the difference between the floating popup and the desktop app?
+A: The popup is a minimal Chrome window without interface. Browsers cannot keep a window above other applications, so for true always on top behavior Flobro hands the page over to its desktop app for Mac and Windows.
+
+Q: Is Flobro really free?
+A: Yes. Flobro is free and open source under the MIT license. Development is supported by voluntary donations.
+
+Q: What about my privacy?
+A: Anonymous usage statistics are limited to hostnames only, never full URLs, and can be switched off in the options. Details at flobro.app/privacy.html.
+
+Flobro: show all content, always on top.

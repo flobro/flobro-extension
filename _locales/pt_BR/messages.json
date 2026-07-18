@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - Janela Flutuante Sempre no Topo",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "Mantenha qualquer aba sempre no topo em uma janela flutuante. Fixe vídeos, documentos ou painéis, ou flutue sobre qualquer app.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "Flutuar em uma janela popup"
+  },
+  "floatHereSub": {
+    "message": "Janela mínima, sem abas nem barra de endereço"
+  },
+  "openInApp": {
+    "message": "Abrir no aplicativo de desktop do Flobro"
+  },
+  "openInAppSub": {
+    "message": "Flutuação realmente sempre no topo"
+  },
+  "confirmQ": {
+    "message": "O aplicativo do Flobro abriu?"
+  },
+  "confirmYes": {
+    "message": "Sim, abriu"
+  },
+  "confirmNo": {
+    "message": "Não, mostre o aplicativo"
+  },
+  "getAppNote": {
+    "message": "O aplicativo de desktop gratuito mantém as janelas acima de tudo."
+  },
+  "getApp": {
+    "message": "Baixe em flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "Flutuar esta página"
+  },
+  "ctxFloatLink": {
+    "message": "Flutuar este link"
+  },
+  "ctxFloatVideo": {
+    "message": "Flutuar este vídeo"
+  },
+  "ctxForwardPage": {
+    "message": "Abrir página no aplicativo do Flobro"
+  },
+  "ctxForwardLink": {
+    "message": "Abrir link no aplicativo do Flobro"
+  },
+  "optSize": {
+    "message": "Tamanho padrão da janela"
+  },
+  "optWide": {
+    "message": "px de largura"
+  },
+  "optHigh": {
+    "message": "px de altura"
+  },
+  "optMove": {
+    "message": "Mover a aba atual para a janela flutuante"
+  },
+  "optMoveSub": {
+    "message": "Mantém a reprodução do vídeo. Desmarcado: abre uma nova cópia."
+  },
+  "optUsage": {
+    "message": "Compartilhar estatísticas anônimas de uso"
+  },
+  "optUsageSub": {
+    "message": "Apenas nomes de host das páginas flutuadas (como youtube.com). Nunca URLs completas, nunca seu IP."
+  },
+  "optSave": {
+    "message": "Salvar"
+  },
+  "optSaved": {
+    "message": "Salvo."
+  },
+  "optReset": {
+    "message": "Redefinir detecção do aplicativo de desktop"
+  },
+  "optResetDone": {
+    "message": "Detecção redefinida. A pergunta será feita novamente na próxima vez."
+  },
+  "optNote": {
+    "message": "Esta extensão mantém as janelas mínimas, mas só o aplicativo de desktop do Flobro consegue mantê-las sempre no topo. Ele é o sucessor moderno do Flobro Chrome App original."
+  },
+  "optNoteLink": {
+    "message": "Baixe o aplicativo de desktop gratuito do Flobro"
+  },
+  "ctxUnfloat": {
+    "message": "Mover de volta para a janela principal"
+  }
+}

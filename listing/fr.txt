@@ -1,0 +1,52 @@
+LOCALE: fr
+============================================================
+NAME (41 chars, store limit 45):
+Flobro - Fenêtre toujours au premier plan
+
+SUMMARY (129 chars, limit 132):
+Gardez tout onglet toujours au premier plan dans une fenêtre flottante. Épinglez vidéos, docs ou tableaux de bord sur chaque app.
+
+DESCRIPTION:
+Gardez chaque page web toujours sous les yeux. Flobro transforme n'importe quel onglet, lien ou vidéo en une fenêtre flottante minimale : pas d'onglets, pas de barre d'adresse, pas d'interface. Rien que le contenu, toujours visible pendant que vous travaillez.
+
+Et Flobro va plus loin que toute autre extension. Avec l'application de bureau gratuite Flobro pour Mac et Windows, un clic transforme cette fenêtre flottante en une fenêtre vraiment toujours au premier plan, au-dessus de toutes les applications de votre écran, pas seulement du navigateur.
+
+FONCTIONNALITÉS DE FLOBRO
+
+- Faites flotter n'importe quel onglet : cliquez sur l'icône de la barre d'outils et votre onglet actuel s'ouvre dans une fenêtre flottante sans bordures.
+- Faites flotter n'importe quel lien : clic droit sur un lien et ouvrez-le directement dans une fenêtre flottante.
+- Épinglez vidéos, directs, chats, tableaux de bord ou documents et gardez-les sous les yeux.
+- Sans distraction : la fenêtre n'affiche que la page web, rien d'autre.
+- Déplacez et redimensionnez la fenêtre flottante selon votre écran et votre façon de travailler.
+- Vraiment toujours au premier plan : transférez une page vers l'application de bureau gratuite et elle flotte au-dessus de TOUTES les applications, avec zoom (25-500%), alignement 16:9 et épinglage dans une barre qui n'apparaît qu'au survol.
+- Gratuit et open source (MIT). Sans compte, sans publicité.
+
+COMMENT ÇA MARCHE
+
+1. Cliquez sur l'icône Flobro pour faire flotter l'onglet actuel, ou clic droit sur un lien et choisissez Flobro.
+2. Déplacez et redimensionnez la fenêtre flottante où vous voulez.
+3. Vous la voulez au-dessus de toutes les apps, pas seulement de Chrome ? Installez l'application de bureau gratuite depuis flobro.app et transférez la page en un clic.
+
+QUI UTILISE FLOBRO
+
+- Développeurs : gardez documentation, logs de build ou réponses d'API visibles pendant que vous codez.
+- Étudiants : regardez un cours ou un tutoriel tout en prenant des notes dans une autre app.
+- Analystes et traders : suivez graphiques, flux et actualités en direct sans changer d'onglet.
+- Rédacteurs et chercheurs : gardez sources et références sous les yeux pendant que vous écrivez.
+- Fans de sport et de vidéo : suivez le match ou la vidéo dans un coin de l'écran.
+
+QUESTIONS FRÉQUENTES
+
+Q : Comment garder un onglet Chrome toujours au premier plan ?
+R : Cliquez sur l'icône Flobro pour le faire flotter dans une fenêtre sans bordures. Pour une fenêtre qui reste au-dessus de toutes les applications, transférez-la en un clic vers l'application de bureau gratuite Flobro.
+
+Q : Quelle est la différence entre la fenêtre flottante et l'application de bureau ?
+R : La fenêtre flottante est une fenêtre Chrome minimale sans interface. Les navigateurs ne peuvent pas maintenir une fenêtre au-dessus des autres applications, donc pour un vrai premier plan permanent, Flobro confie la page à son application de bureau pour Mac et Windows.
+
+Q : Flobro est-il vraiment gratuit ?
+R : Oui. Flobro est gratuit et open source sous licence MIT. Le développement est financé par des dons volontaires.
+
+Q : Et ma vie privée ?
+R : Les statistiques d'utilisation anonymes se limitent aux noms d'hôte, jamais aux URL complètes, et peuvent être désactivées dans les options. Détails sur flobro.app/privacy.html.
+
+Flobro : tout afficher, toujours au premier plan.

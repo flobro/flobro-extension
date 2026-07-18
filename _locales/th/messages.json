@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - หน้าต่างลอยอยู่บนสุดเสมอ",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "ตรึงแท็บใดก็ได้ให้อยู่บนสุดเสมอในหน้าต่างลอย ปักหมุดวิดีโอ เอกสาร หรือแดชบอร์ด หรือลอยเหนือทุกแอป",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "ลอยในหน้าต่างป๊อปอัป"
+  },
+  "floatHereSub": {
+    "message": "หน้าต่างมินิมอล ไม่มีแท็บหรือแถบที่อยู่"
+  },
+  "openInApp": {
+    "message": "เปิดในแอปเดสก์ท็อป Flobro"
+  },
+  "openInAppSub": {
+    "message": "ลอยอยู่บนสุดเสมออย่างแท้จริง"
+  },
+  "confirmQ": {
+    "message": "แอป Flobro เปิดขึ้นหรือไม่?"
+  },
+  "confirmYes": {
+    "message": "ใช่ เปิดแล้ว"
+  },
+  "confirmNo": {
+    "message": "ไม่ พาไปดูแอป"
+  },
+  "getAppNote": {
+    "message": "แอปเดสก์ท็อปฟรีช่วยให้หน้าต่างอยู่เหนือทุกอย่าง"
+  },
+  "getApp": {
+    "message": "ดาวน์โหลดได้ที่ flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "ลอยหน้านี้"
+  },
+  "ctxFloatLink": {
+    "message": "ลอยลิงก์นี้"
+  },
+  "ctxFloatVideo": {
+    "message": "ลอยวิดีโอนี้"
+  },
+  "ctxForwardPage": {
+    "message": "เปิดหน้าในแอป Flobro"
+  },
+  "ctxForwardLink": {
+    "message": "เปิดลิงก์ในแอป Flobro"
+  },
+  "optSize": {
+    "message": "ขนาดหน้าต่างเริ่มต้น"
+  },
+  "optWide": {
+    "message": "px กว้าง"
+  },
+  "optHigh": {
+    "message": "px สูง"
+  },
+  "optMove": {
+    "message": "ย้ายแท็บปัจจุบันไปยังหน้าต่างลอย"
+  },
+  "optMoveSub": {
+    "message": "วิดีโอเล่นต่อเนื่อง หากไม่เลือก: จะเปิดสำเนาใหม่แทน"
+  },
+  "optUsage": {
+    "message": "แชร์สถิติการใช้งานแบบไม่ระบุตัวตน"
+  },
+  "optUsageSub": {
+    "message": "เฉพาะชื่อโฮสต์ของหน้าที่ลอย (เช่น youtube.com) ไม่มี URL เต็มและไม่มี IP ของคุณ"
+  },
+  "optSave": {
+    "message": "บันทึก"
+  },
+  "optSaved": {
+    "message": "บันทึกแล้ว"
+  },
+  "optReset": {
+    "message": "รีเซ็ตการตรวจหาแอปเดสก์ท็อป"
+  },
+  "optResetDone": {
+    "message": "รีเซ็ตการตรวจหาแล้ว ครั้งหน้าจะถามอีกครั้ง"
+  },
+  "optNote": {
+    "message": "ส่วนขยายนี้ทำให้หน้าต่างมินิมอลที่สุด แต่มีเพียงแอปเดสก์ท็อป Flobro เท่านั้นที่ทำให้หน้าต่างอยู่บนสุดเสมอได้ นี่คือผู้สืบทอดยุคใหม่ของ Flobro Chrome App ดั้งเดิม"
+  },
+  "optNoteLink": {
+    "message": "ดาวน์โหลดแอปเดสก์ท็อป Flobro ฟรี"
+  },
+  "ctxUnfloat": {
+    "message": "ย้ายกลับไปยังหน้าต่างหลัก"
+  }
+}

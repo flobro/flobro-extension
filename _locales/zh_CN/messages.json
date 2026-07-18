@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - 窗口置顶悬浮窗",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "让任何标签页在悬浮窗中始终置顶。将视频、文档或仪表盘固定在无边框小窗，或悬浮在所有应用之上。",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "在弹出窗口中悬浮"
+  },
+  "floatHereSub": {
+    "message": "极简窗口，没有标签栏或地址栏"
+  },
+  "openInApp": {
+    "message": "在 Flobro 桌面应用中打开"
+  },
+  "openInAppSub": {
+    "message": "真正始终置顶的悬浮窗"
+  },
+  "confirmQ": {
+    "message": "Flobro 应用打开了吗？"
+  },
+  "confirmYes": {
+    "message": "是，已打开"
+  },
+  "confirmNo": {
+    "message": "没有，带我去看应用"
+  },
+  "getAppNote": {
+    "message": "免费桌面应用能让窗口保持在所有内容之上。"
+  },
+  "getApp": {
+    "message": "前往 flobro.app 获取"
+  },
+  "ctxFloatPage": {
+    "message": "悬浮此页面"
+  },
+  "ctxFloatLink": {
+    "message": "悬浮此链接"
+  },
+  "ctxFloatVideo": {
+    "message": "悬浮此视频"
+  },
+  "ctxForwardPage": {
+    "message": "在 Flobro 应用中打开页面"
+  },
+  "ctxForwardLink": {
+    "message": "在 Flobro 应用中打开链接"
+  },
+  "optSize": {
+    "message": "默认窗口大小"
+  },
+  "optWide": {
+    "message": "px 宽"
+  },
+  "optHigh": {
+    "message": "px 高"
+  },
+  "optMove": {
+    "message": "将当前标签页移入悬浮窗"
+  },
+  "optMoveSub": {
+    "message": "视频会继续播放。取消勾选：改为打开新的副本。"
+  },
+  "optUsage": {
+    "message": "分享匿名使用统计"
+  },
+  "optUsageSub": {
+    "message": "仅限悬浮页面的主机名（例如 youtube.com）。绝不包含完整网址或你的 IP。"
+  },
+  "optSave": {
+    "message": "保存"
+  },
+  "optSaved": {
+    "message": "已保存。"
+  },
+  "optReset": {
+    "message": "重置桌面应用检测"
+  },
+  "optResetDone": {
+    "message": "检测已重置。下次会再次询问。"
+  },
+  "optNote": {
+    "message": "此扩展让窗口保持极简，但只有 Flobro 桌面应用能让窗口始终置顶。它是原版 Flobro Chrome App 的现代继任者。"
+  },
+  "optNoteLink": {
+    "message": "获取免费的 Flobro 桌面应用"
+  },
+  "ctxUnfloat": {
+    "message": "移回主窗口"
+  }
+}

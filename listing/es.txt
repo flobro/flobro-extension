@@ -1,0 +1,52 @@
+LOCALE: es
+============================================================
+NAME (40 chars, store limit 45):
+Flobro - Ventana Flotante Siempre Encima
+
+SUMMARY (128 chars, limit 132):
+Mantén cualquier pestaña siempre encima en una ventana flotante. Fija vídeos, documentos o paneles, o flota sobre cualquier app.
+
+DESCRIPTION:
+Mantén cualquier página web siempre a la vista. Flobro convierte cualquier pestaña, enlace o vídeo en una ventana flotante minimalista: sin pestañas, sin barra de direcciones, sin interfaz. Solo el contenido, siempre visible mientras trabajas.
+
+Y Flobro va un paso más allá que cualquier otra extensión. Con la aplicación de escritorio gratuita de Flobro para Mac y Windows, un clic convierte esa ventana flotante en una ventana realmente siempre encima, por encima de todas las aplicaciones de tu pantalla, no solo del navegador.
+
+FUNCIONES DE FLOBRO
+
+- Haz flotar cualquier pestaña: haz clic en el icono de la barra de herramientas y tu pestaña actual salta a una ventana flotante sin bordes.
+- Haz flotar cualquier enlace: clic derecho en un enlace y ábrelo directamente en una ventana flotante.
+- Fija vídeos, transmisiones en directo, chats, paneles o documentos y mantenlos a la vista.
+- Sin distracciones: la ventana muestra solo la página web, nada más.
+- Mueve y redimensiona la ventana flotante para adaptarla a tu pantalla y forma de trabajar.
+- Realmente siempre encima: envía cualquier página a la aplicación de escritorio gratuita y flotará sobre TODAS las aplicaciones, con zoom (25-500%), ajuste 16:9 y anclaje en una barra que solo aparece al pasar el cursor.
+- Gratis y de código abierto (MIT). Sin cuenta, sin publicidad.
+
+CÓMO FUNCIONA
+
+1. Haz clic en el icono de Flobro para hacer flotar tu pestaña actual, o clic derecho en un enlace y elige Flobro.
+2. Mueve y redimensiona la ventana flotante donde quieras.
+3. ¿La quieres encima de todas las apps, no solo de Chrome? Instala la aplicación de escritorio gratuita desde flobro.app y envía la página con un clic.
+
+QUIÉN USA FLOBRO
+
+- Desarrolladores: documentación, registros o respuestas de API visibles mientras programas.
+- Estudiantes: mira una clase o tutorial mientras tomas apuntes en otra app.
+- Analistas e inversores: sigue gráficos, datos y noticias en directo sin cambiar de pestaña.
+- Escritores e investigadores: fuentes y referencias a la vista mientras escribes.
+- Aficionados al deporte y al vídeo: sigue el partido o el vídeo en una esquina de la pantalla.
+
+PREGUNTAS FRECUENTES
+
+P: ¿Cómo mantengo una pestaña de Chrome siempre encima?
+R: Haz clic en el icono de Flobro para hacerla flotar en una ventana sin bordes. Para una ventana que quede encima de todas las aplicaciones, envíala con un clic a la aplicación de escritorio gratuita de Flobro.
+
+P: ¿Cuál es la diferencia entre la ventana flotante y la aplicación de escritorio?
+R: La ventana flotante es una ventana mínima de Chrome sin interfaz. Los navegadores no pueden mantener una ventana por encima de otras aplicaciones, así que para estar realmente siempre encima Flobro entrega la página a su aplicación de escritorio para Mac y Windows.
+
+P: ¿Flobro es realmente gratis?
+R: Sí. Flobro es gratuito y de código abierto bajo licencia MIT. El desarrollo se financia con donaciones voluntarias.
+
+P: ¿Y mi privacidad?
+R: Las estadísticas anónimas de uso se limitan a nombres de host, nunca URL completas, y se pueden desactivar en las opciones. Detalles en flobro.app/privacy.html.
+
+Flobro: muestra todo el contenido, siempre encima.

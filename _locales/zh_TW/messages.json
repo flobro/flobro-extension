@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - 永遠置頂懸浮視窗",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "讓任何分頁在懸浮視窗中永遠置頂。將影片、文件或儀表板釘選在無邊框小窗，或懸浮在所有應用程式之上。",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "在彈出視窗中懸浮"
+  },
+  "floatHereSub": {
+    "message": "極簡視窗，沒有分頁列或網址列"
+  },
+  "openInApp": {
+    "message": "在 Flobro 桌面應用程式中開啟"
+  },
+  "openInAppSub": {
+    "message": "真正永遠置頂的懸浮視窗"
+  },
+  "confirmQ": {
+    "message": "Flobro 應用程式開啟了嗎？"
+  },
+  "confirmYes": {
+    "message": "有，已開啟"
+  },
+  "confirmNo": {
+    "message": "沒有，帶我去看應用程式"
+  },
+  "getAppNote": {
+    "message": "免費桌面應用程式能讓視窗保持在所有內容之上。"
+  },
+  "getApp": {
+    "message": "前往 flobro.app 取得"
+  },
+  "ctxFloatPage": {
+    "message": "懸浮此頁面"
+  },
+  "ctxFloatLink": {
+    "message": "懸浮此連結"
+  },
+  "ctxFloatVideo": {
+    "message": "懸浮此影片"
+  },
+  "ctxForwardPage": {
+    "message": "在 Flobro 應用程式中開啟頁面"
+  },
+  "ctxForwardLink": {
+    "message": "在 Flobro 應用程式中開啟連結"
+  },
+  "optSize": {
+    "message": "預設視窗大小"
+  },
+  "optWide": {
+    "message": "px 寬"
+  },
+  "optHigh": {
+    "message": "px 高"
+  },
+  "optMove": {
+    "message": "將目前分頁移入懸浮視窗"
+  },
+  "optMoveSub": {
+    "message": "影片會繼續播放。取消勾選：改為開啟新的副本。"
+  },
+  "optUsage": {
+    "message": "分享匿名使用統計"
+  },
+  "optUsageSub": {
+    "message": "僅限懸浮頁面的主機名稱（例如 youtube.com）。絕不包含完整網址或你的 IP。"
+  },
+  "optSave": {
+    "message": "儲存"
+  },
+  "optSaved": {
+    "message": "已儲存。"
+  },
+  "optReset": {
+    "message": "重設桌面應用程式偵測"
+  },
+  "optResetDone": {
+    "message": "偵測已重設。下次會再次詢問。"
+  },
+  "optNote": {
+    "message": "此擴充功能讓視窗保持極簡，但只有 Flobro 桌面應用程式能讓視窗永遠置頂。它是原始 Flobro Chrome App 的現代後繼者。"
+  },
+  "optNoteLink": {
+    "message": "取得免費的 Flobro 桌面應用程式"
+  },
+  "ctxUnfloat": {
+    "message": "移回主視窗"
+  }
+}

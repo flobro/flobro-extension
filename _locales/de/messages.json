@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - Schwebendes Fenster im Vordergrund",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "Halte jeden Tab immer im Vordergrund in einem schwebenden Fenster. Videos, Docs oder Dashboards anpinnen, über jeder App.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "In einem Popup-Fenster schweben lassen"
+  },
+  "floatHereSub": {
+    "message": "Minimales Fenster, ohne Tabs oder Adressleiste"
+  },
+  "openInApp": {
+    "message": "In der Flobro Desktop-App öffnen"
+  },
+  "openInAppSub": {
+    "message": "Wirklich immer im Vordergrund"
+  },
+  "confirmQ": {
+    "message": "Hat sich die Flobro-App geöffnet?"
+  },
+  "confirmYes": {
+    "message": "Ja, sie hat sich geöffnet"
+  },
+  "confirmNo": {
+    "message": "Nein, zeig mir die App"
+  },
+  "getAppNote": {
+    "message": "Die kostenlose Desktop-App hält Fenster über allem anderen."
+  },
+  "getApp": {
+    "message": "Hol sie dir auf flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "Diese Seite schweben lassen"
+  },
+  "ctxFloatLink": {
+    "message": "Diesen Link schweben lassen"
+  },
+  "ctxFloatVideo": {
+    "message": "Dieses Video schweben lassen"
+  },
+  "ctxForwardPage": {
+    "message": "Seite in der Flobro-App öffnen"
+  },
+  "ctxForwardLink": {
+    "message": "Link in der Flobro-App öffnen"
+  },
+  "optSize": {
+    "message": "Standard-Fenstergröße"
+  },
+  "optWide": {
+    "message": "px breit"
+  },
+  "optHigh": {
+    "message": "px hoch"
+  },
+  "optMove": {
+    "message": "Aktuellen Tab in das schwebende Fenster verschieben"
+  },
+  "optMoveSub": {
+    "message": "Videowiedergabe läuft weiter. Ohne Haken: öffnet stattdessen eine neue Kopie."
+  },
+  "optUsage": {
+    "message": "Anonyme Nutzungsstatistiken teilen"
+  },
+  "optUsageSub": {
+    "message": "Nur Hostnamen geschwebter Seiten (wie youtube.com). Niemals vollständige URLs, niemals deine IP."
+  },
+  "optSave": {
+    "message": "Speichern"
+  },
+  "optSaved": {
+    "message": "Gespeichert."
+  },
+  "optReset": {
+    "message": "Desktop-App-Erkennung zurücksetzen"
+  },
+  "optResetDone": {
+    "message": "Erkennung zurückgesetzt. Beim nächsten Mal wird erneut gefragt."
+  },
+  "optNote": {
+    "message": "Diese Erweiterung hält Fenster minimal, aber nur die Flobro Desktop-App kann sie immer im Vordergrund halten. Sie ist die moderne Nachfolgerin der ursprünglichen Flobro Chrome App."
+  },
+  "optNoteLink": {
+    "message": "Hol dir die kostenlose Flobro Desktop-App"
+  },
+  "ctxUnfloat": {
+    "message": "Zurück ins Hauptfenster verschieben"
+  }
+}

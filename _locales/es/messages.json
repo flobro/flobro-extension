@@ -1,0 +1,97 @@
+{
+  "extName": {
+    "message": "Flobro - Ventana Flotante Siempre Encima",
+    "description": "Extension name shown in Chrome and the Web Store listing title."
+  },
+  "extDesc": {
+    "message": "Mantén cualquier pestaña siempre encima en una ventana flotante. Fija vídeos, documentos o paneles, o flota sobre cualquier app.",
+    "description": "Extension short description / Web Store listing summary. Max 132 chars."
+  },
+  "actionTitle": {
+    "message": "Flobro"
+  },
+  "floatHere": {
+    "message": "Flotar en una ventana emergente"
+  },
+  "floatHereSub": {
+    "message": "Ventana mínima, sin pestañas ni barra de direcciones"
+  },
+  "openInApp": {
+    "message": "Abrir en la app de escritorio de Flobro"
+  },
+  "openInAppSub": {
+    "message": "Flotación realmente siempre encima"
+  },
+  "confirmQ": {
+    "message": "¿Se abrió la app de Flobro?"
+  },
+  "confirmYes": {
+    "message": "Sí, se abrió"
+  },
+  "confirmNo": {
+    "message": "No, muéstrame la app"
+  },
+  "getAppNote": {
+    "message": "La app de escritorio gratuita mantiene las ventanas encima de todo."
+  },
+  "getApp": {
+    "message": "Consíguela en flobro.app"
+  },
+  "ctxFloatPage": {
+    "message": "Flotar esta página"
+  },
+  "ctxFloatLink": {
+    "message": "Flotar este enlace"
+  },
+  "ctxFloatVideo": {
+    "message": "Flotar este vídeo"
+  },
+  "ctxForwardPage": {
+    "message": "Abrir página en la app de Flobro"
+  },
+  "ctxForwardLink": {
+    "message": "Abrir enlace en la app de Flobro"
+  },
+  "optSize": {
+    "message": "Tamaño de ventana predeterminado"
+  },
+  "optWide": {
+    "message": "px de ancho"
+  },
+  "optHigh": {
+    "message": "px de alto"
+  },
+  "optMove": {
+    "message": "Mover la pestaña actual a la ventana flotante"
+  },
+  "optMoveSub": {
+    "message": "Mantiene la reproducción de vídeo. Sin marcar: abre una copia nueva."
+  },
+  "optUsage": {
+    "message": "Compartir estadísticas anónimas de uso"
+  },
+  "optUsageSub": {
+    "message": "Solo nombres de host de páginas flotadas (como youtube.com). Nunca URL completas, nunca tu IP."
+  },
+  "optSave": {
+    "message": "Guardar"
+  },
+  "optSaved": {
+    "message": "Guardado."
+  },
+  "optReset": {
+    "message": "Restablecer detección de la app de escritorio"
+  },
+  "optResetDone": {
+    "message": "Detección restablecida. La ventana volverá a preguntar la próxima vez."
+  },
+  "optNote": {
+    "message": "Esta extensión mantiene las ventanas al mínimo, pero solo la app de escritorio de Flobro puede mantenerlas siempre encima. Es la sucesora moderna de la Flobro Chrome App original."
+  },
+  "optNoteLink": {
+    "message": "Consigue la app de escritorio gratuita de Flobro"
+  },
+  "ctxUnfloat": {
+    "message": "Volver a la ventana principal"
+  }
+}

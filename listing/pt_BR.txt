@@ -1,0 +1,52 @@
+LOCALE: pt_BR
+============================================================
+NAME (40 chars, store limit 45):
+Flobro - Janela Flutuante Sempre no Topo
+
+SUMMARY (127 chars, limit 132):
+Mantenha qualquer aba sempre no topo em uma janela flutuante. Fixe vídeos, documentos ou painéis, ou flutue sobre qualquer app.
+
+DESCRIPTION:
+Mantenha qualquer página sempre à vista. O Flobro transforma qualquer aba, link ou vídeo em uma janela flutuante minimalista: sem abas, sem barra de endereço, sem interface. Só o conteúdo, sempre visível enquanto você trabalha.
+
+E o Flobro vai além de qualquer outra extensão. Com o aplicativo de desktop gratuito do Flobro para Mac e Windows, um clique transforma essa janela flutuante em uma janela realmente sempre no topo, acima de todos os aplicativos da sua tela, não apenas do navegador.
+
+RECURSOS DO FLOBRO
+
+- Flutue qualquer aba: clique no ícone da barra de ferramentas e sua aba atual vira uma janela flutuante sem bordas.
+- Flutue qualquer link: clique com o botão direito em um link e abra direto em uma janela flutuante.
+- Fixe vídeos, transmissões ao vivo, chats, painéis ou documentos e mantenha tudo à vista.
+- Sem distrações: a janela mostra apenas a página, nada mais.
+- Mova e redimensione a janela flutuante para se adaptar à sua tela e ao seu fluxo de trabalho.
+- Realmente sempre no topo: envie qualquer página para o aplicativo de desktop gratuito e ela flutua acima de TODOS os aplicativos, com zoom (25-500%), ajuste 16:9 e fixação em uma barra que só aparece ao passar o mouse.
+- Gratuito e de código aberto (MIT). Sem conta, sem anúncios.
+
+COMO FUNCIONA
+
+1. Clique no ícone do Flobro para flutuar a aba atual, ou clique com o botão direito em um link e escolha Flobro.
+2. Mova e redimensione a janela flutuante onde quiser.
+3. Quer acima de todos os apps, não só do Chrome? Instale o aplicativo de desktop gratuito em flobro.app e envie a página com um clique.
+
+QUEM USA O FLOBRO
+
+- Desenvolvedores: mantenha documentação, logs de build ou respostas de API visíveis enquanto programa.
+- Estudantes: assista a uma aula ou tutorial enquanto faz anotações em outro app.
+- Analistas e traders: acompanhe gráficos, feeds e notícias ao vivo sem trocar de aba.
+- Escritores e pesquisadores: mantenha fontes e referências à vista enquanto escreve.
+- Fãs de esporte e vídeo: acompanhe o jogo ou o vídeo em um canto da tela.
+
+PERGUNTAS FREQUENTES
+
+P: Como manter uma aba do Chrome sempre no topo?
+R: Clique no ícone do Flobro para flutuá-la em uma janela sem bordas. Para uma janela que fica acima de todos os aplicativos, envie-a com um clique para o aplicativo de desktop gratuito do Flobro.
+
+P: Qual a diferença entre a janela flutuante e o aplicativo de desktop?
+R: A janela flutuante é uma janela mínima do Chrome sem interface. Navegadores não conseguem manter uma janela acima de outros aplicativos, então para ficar realmente sempre no topo o Flobro entrega a página ao seu aplicativo de desktop para Mac e Windows.
+
+P: O Flobro é realmente gratuito?
+R: Sim. O Flobro é gratuito e de código aberto sob licença MIT. O desenvolvimento é mantido por doações voluntárias.
+
+P: E a minha privacidade?
+R: As estatísticas anônimas de uso se limitam a nomes de host, nunca URLs completas, e podem ser desativadas nas opções. Detalhes em flobro.app/privacy.html.
+
+Flobro: mostre todo o conteúdo, sempre no topo.

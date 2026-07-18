@@ -1,0 +1,52 @@
+LOCALE: nl
+============================================================
+NAME (32 chars, store limit 45):
+Flobro - Venster Altijd Bovenaan
+
+SUMMARY (126 chars, limit 132):
+Houd elk tabblad altijd bovenaan in een zwevend venster. Zet video's, docs of dashboards vast, of zweef boven elke applicatie.
+
+DESCRIPTION:
+Houd elke webpagina altijd in beeld. Flobro maakt van elk tabblad, elke link of video een minimaal zwevend venster: geen tabbladen, geen adresbalk, geen interface. Alleen de inhoud, altijd zichtbaar terwijl je werkt.
+
+En Flobro gaat een stap verder dan elke andere extensie. Met de gratis Flobro desktop-app voor Mac en Windows verandert dat zwevende venster met een klik in een venster dat echt altijd bovenaan blijft, boven elke applicatie op je scherm, niet alleen je browser.
+
+FLOBRO FUNCTIES
+
+- Laat elk tabblad zweven: klik op het werkbalkicoon en je huidige tabblad springt naar een zwevend venster zonder randen.
+- Laat elke link zweven: klik met de rechtermuisknop op een link en open hem direct in een zwevend venster.
+- Zet video's, livestreams, chats, dashboards of documenten vast en houd ze in beeld.
+- Zonder afleiding: de popup toont alleen de webpagina, verder niets.
+- Verplaats en verklein het zwevende venster zodat het past bij je scherm en werkwijze.
+- Echt altijd bovenaan: stuur een pagina door naar de gratis Flobro desktop-app en hij zweeft boven ALLE applicaties, met zoom (25-500%), 16:9-uitlijning en vastzetten in een werkbalk die alleen verschijnt als je er overheen beweegt.
+- Gratis en open source (MIT). Geen account, geen advertenties.
+
+ZO WERKT HET
+
+1. Klik op het Flobro-icoon om je huidige tabblad te laten zweven, of rechtsklik op een link en kies Flobro.
+2. Verplaats en verklein de zwevende popup zoals jij wilt.
+3. Wil je hem boven elke app, niet alleen Chrome? Installeer de gratis desktop-app via flobro.app en stuur de pagina door met een klik.
+
+WIE GEBRUIKT FLOBRO
+
+- Ontwikkelaars: houd documentatie, build-logs of API-antwoorden zichtbaar tijdens het programmeren.
+- Studenten: bekijk een college of tutorial terwijl je aantekeningen maakt in een andere app.
+- Analisten en beleggers: volg live grafieken, feeds en nieuws zonder te wisselen tussen tabbladen.
+- Schrijvers en onderzoekers: houd bronnen en naslagwerk in beeld terwijl je schrijft.
+- Sport- en videofans: volg de wedstrijd of video in een hoekje van je scherm.
+
+VEELGESTELDE VRAGEN
+
+V: Hoe houd ik een Chrome-tabblad altijd bovenaan?
+A: Klik op het Flobro-icoon om het tabblad in een popup zonder randen te laten zweven. Wil je een venster dat boven elke applicatie blijft, stuur het dan met een klik door naar de gratis Flobro desktop-app.
+
+V: Wat is het verschil tussen de zwevende popup en de desktop-app?
+A: De popup is een minimaal Chrome-venster zonder interface. Browsers kunnen een venster niet boven andere applicaties houden, dus voor echt altijd-bovenaan geeft Flobro de pagina door aan de desktop-app voor Mac en Windows.
+
+V: Is Flobro echt gratis?
+A: Ja. Flobro is gratis en open source onder de MIT-licentie. De ontwikkeling draait op vrijwillige donaties.
+
+V: Hoe zit het met mijn privacy?
+A: Anonieme gebruiksstatistieken zijn beperkt tot alleen hostnames, nooit volledige URL's, en zijn uit te zetten in de opties. Details op flobro.app/privacy.html.
+
+Flobro: toon alle inhoud, altijd bovenaan.
