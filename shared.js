@@ -10,7 +10,7 @@ const FLOBRO_DEFAULTS = { width: 560, height: 348, moveTab: true, shareUsage: tr
  * Hostname only, no IP ($ip: null), random anonymous id.
  * Nothing is sent while the placeholder key is in place. */
 const FLOBRO_PH_KEY = 'phc_tmfA5uemSD7TscmzLWQPAiqYXxfNartjfYsrjWQ6rEot';
-const FLOBRO_PH_HOST = 'https://eu.i.posthog.com';
+const FLOBRO_PH_HOST = 'https://s.flobro.app';
 
 async function flobroSettings() {
   const stored = await chrome.storage.sync.get(FLOBRO_DEFAULTS);
